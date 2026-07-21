@@ -1,0 +1,5 @@
+httpd:
+  ip: 192.168.101.12
+  name: httpd
+  port: 5050
+  user: admin

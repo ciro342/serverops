@@ -1,0 +1,6 @@
+proyect/
+__pycache__/
+*.py[cod]
+*.log
+.vscode/
+PRUEBAS/

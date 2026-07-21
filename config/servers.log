@@ -1,0 +1,23 @@
+2026-07-20 18:04:30,683 -- INFO -- Se han listado los servidores
+2026-07-20 18:05:24,301 -- INFO -- Se han listado los servidores
+2026-07-20 18:08:14,392 -- INFO -- Se ha agregado {'name': 'nginx', 'ip': '189.132.10.1', 'user': 'admin', 'port': 4444} a el archivo de servudiores
+2026-07-20 18:11:10,801 -- INFO -- Se ha agregado apachetomcat a el archivo de servudiores
+2026-07-20 18:21:30,593 -- INFO -- Se han listado los servidores
+2026-07-21 10:54:47,336 -- INFO -- Se ah eliminado httpd de la lista de servidores
+2026-07-21 10:57:26,295 -- WARNING -- No existe el server httpd en la lista de servidores
+2026-07-21 10:57:55,671 -- WARNING -- No existe el server httpd en la lista de servidores
+2026-07-21 10:59:31,265 -- WARNING -- No existe el server httpd en la lista de servidores
+2026-07-21 11:07:47,738 -- INFO -- Se ah eliminado httpd de la lista de servidores
+2026-07-21 11:08:07,369 -- INFO -- Se han listado los servidores
+2026-07-21 11:13:21,551 -- WARNING -- No hay informacion en el archivo de servidores
+2026-07-21 11:22:15,454 -- WARNING -- No hay informacion en el archivo de servidores
+2026-07-21 11:23:39,800 -- INFO -- Se ha agregado httpd a el archivo de servudiores
+2026-07-21 11:23:48,861 -- INFO -- Se han listado los servidores
+2026-07-21 11:23:56,491 -- INFO -- Se ah eliminado httpd de la lista de servidores
+2026-07-21 11:25:12,361 -- WARNING -- No existe el server httpd en la lista de servidores
+2026-07-21 11:25:14,802 -- INFO -- Se ha agregado httpd a el archivo de servudiores
+2026-07-21 11:25:16,116 -- INFO -- Se han listado los servidores
+2026-07-21 11:25:19,310 -- INFO -- Se ah eliminado httpd de la lista de servidores
+2026-07-21 11:25:28,540 -- INFO -- Se ha agregado httpd a el archivo de servudiores
+2026-07-21 16:12:49,884 -- INFO -- Se ha agregado httpd a el archivo de servudiores
+2026-07-21 16:13:22,691 -- INFO -- Se han listado los servidores
