@@ -6,7 +6,6 @@ from models.server import Server
 from pathlib import Path
 import core.logger
 
-
 app_inventory=typer.Typer()
 
 @app_inventory.command()
@@ -67,3 +66,24 @@ def remove(name:str):
     except FileNotFoundError:
         print("No se ah encontrado el archivo a la hora de eliminar")
         logging.error("No se ah encontrado el archivo de servidores al momento de eliminar")
+
+
+@app_inventory.command()
+def update(name_serv:str,key:str,value):
+    try:
+        with open("config/servers.yml") as f:
+            data=yaml.safe_load(f) or {}
+        if name_serv not in data:
+            print("ese servidor no existe en el archivo")
+            logging.warning(f"No existe el server en el archivo  {name_serv} ")
+        else:
+            #name_serv[f"{key}"]=f"{value}"
+            data[name_serv][key]=value
+            with open("config/servers.yml","w") as file:
+                yaml.safe_dump(data,file)
+            print("update hecho correctamente porfavor asegurese en el archivo.")
+            logging.info(f"Se ah modificado el servidor {name_serv}")
+           
+    except FileNotFoundError:
+        print("No se ah encontrado el archivo de los servidores :v ")
+        logging.error("No se ah encontrado el archivo de los servidores .")

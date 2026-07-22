@@ -1,5 +1,5 @@
 httpd:
-  ip: 192.168.101.12
+  ip: 10.123.121.1
   name: httpd
-  port: 5050
-  user: admin
+  port: '6060'
+  user: mmickael
