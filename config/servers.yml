@@ -1,5 +1,25 @@
+apace_tomcat:
+  ip: 182.12.222.12
+  name: apace_tomcat
+  port: 5050
+  user: tomcatadmin
+cloudfare:
+  ip: 1.1.1.1
+  name: cloudfare
+  port: 8080
+  user: admin
 httpd:
-  ip: 10.123.121.1
+  ip: 10.123.123.1
   name: httpd
-  port: '6060'
-  user: mmickael
+  port: 1212
+  user: admin
+ngnix:
+  ip: 11.123.123.1
+  name: ngnix
+  port: '4444'
+  user: admin
+ubuntu:
+  ip: 192.153.100.12
+  name: ubuntu
+  port: '8888'
+  user: administrator

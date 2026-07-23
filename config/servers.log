@@ -25,3 +25,44 @@
 2026-07-21 20:32:10,916 -- INFO -- Se ah modificado el servidor httpd
 2026-07-21 20:32:34,090 -- INFO -- Se ah modificado el servidor httpd
 2026-07-21 20:33:26,148 -- INFO -- Se ah modificado el servidor httpd
+2026-07-22 19:23:47,863 -- INFO -- Se han listado los servidores
+2026-07-22 19:38:25,336 -- INFO -- Se han listado los servidores
+2026-07-22 19:38:56,011 -- INFO -- Se ha agregado cloudfare a el archivo de servudiores
+2026-07-22 19:39:00,497 -- INFO -- Se han listado los servidores
+2026-07-22 19:39:15,786 -- INFO -- Se ah eliminado cloudfare de la lista de servidores
+2026-07-22 19:39:43,323 -- INFO -- Se ha agregado cloudfare a el archivo de servudiores
+2026-07-22 19:39:46,504 -- INFO -- Se ah eliminado cloudfare de la lista de servidores
+2026-07-22 17:10:03,586 -- INFO -- Se han listado los servidores
+2026-07-22 17:14:25,130 -- INFO -- Se ah modificado el servidor httpd
+2026-07-22 17:24:05,563 -- INFO -- Si hay conexion con ping para : httpd
+2026-07-22 17:24:30,469 -- INFO -- Si hay conexion con ping para : httpd
+2026-07-22 17:24:46,422 -- INFO -- Si hay conexion con ping para : httpd
+2026-07-22 17:27:11,334 -- ERROR -- El servidor choose no se enceuntra en la lista
+2026-07-22 17:27:14,178 -- ERROR -- El servidor choose no se enceuntra en la lista
+2026-07-22 17:27:44,376 -- ERROR -- El servidor webos no se enceuntra en la lista
+2026-07-22 17:28:26,214 -- INFO -- Si hay conexion con ping para : httpd
+2026-07-22 17:28:30,086 -- ERROR -- El servidor htt no se enceuntra en la lista
+2026-07-22 23:00:42,904 -- INFO -- Se han listado los servidores
+2026-07-22 23:01:05,687 -- INFO -- Se han listado los servidores
+2026-07-22 23:30:22,952 -- WARNING -- No existe el server xd en la lista de servidores
+2026-07-22 23:33:36,075 -- INFO -- Se ah eliminado httpd de la lista de servidores
+2026-07-22 23:38:22,622 -- INFO -- Se ha agregado cloudfare a el archivo de servudiores
+2026-07-22 23:39:25,876 -- INFO -- [bold green]✓ Se ha agregado httpd a el archivo de servudiores
+2026-07-22 23:39:53,013 -- INFO -- Se han listado los servidores
+2026-07-22 23:44:38,292 -- INFO -- Se han listado los servidores
+2026-07-22 23:45:07,849 -- INFO -- Se han listado los servidores
+2026-07-22 23:45:09,415 -- INFO -- Se han listado los servidores
+2026-07-22 23:45:10,396 -- INFO -- Se han listado los servidores
+2026-07-22 23:45:10,889 -- INFO -- Se han listado los servidores
+2026-07-22 23:45:11,422 -- INFO -- Se han listado los servidores
+2026-07-22 23:45:11,969 -- INFO -- Se han listado los servidores
+2026-07-22 23:45:12,450 -- INFO -- Se han listado los servidores
+2026-07-22 23:47:39,571 -- INFO --  Se ha agregado ngnix a el archivo de servudiores
+2026-07-22 23:47:42,501 -- INFO -- Se han listado los servidores
+2026-07-22 23:48:32,673 -- INFO -- Se han listado los servidores
+2026-07-22 23:53:20,088 -- INFO --  Se ha agregado apace_tomcat a el archivo de servudiores
+2026-07-22 23:53:30,695 -- INFO -- Se han listado los servidores
+2026-07-22 23:56:02,106 -- INFO -- Se ah modificado el servidor ngnix
+2026-07-22 23:56:45,068 -- INFO --  Se ha agregado ubuntu a el archivo de servudiores
+2026-07-22 23:56:49,617 -- INFO -- Se han listado los servidores
+2026-07-22 23:57:09,206 -- INFO -- Se ah modificado el servidor ubuntu
