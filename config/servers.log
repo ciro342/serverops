@@ -66,3 +66,11 @@
 2026-07-22 23:56:45,068 -- INFO --  Se ha agregado ubuntu a el archivo de servudiores
 2026-07-22 23:56:49,617 -- INFO -- Se han listado los servidores
 2026-07-22 23:57:09,206 -- INFO -- Se ah modificado el servidor ubuntu
+2026-07-24 18:20:48,919 -- INFO -- Se han listado los servidores
+2026-07-24 18:38:09,423 -- ERROR -- No hay conexion para httpd
+2026-07-24 18:51:43,719 -- INFO -- Se han listado los servidores
+2026-07-24 18:52:06,307 -- INFO -- Si hay conexion con ping para : cloudfare
+2026-07-24 18:53:09,476 -- INFO -- Si hay conexion con ping para : cloudfare
+2026-07-24 18:53:48,396 -- INFO -- Si hay conexion con ping para : cloudfare
+2026-07-24 18:54:15,316 -- ERROR -- No hay conexion para ngnix
+2026-07-24 18:57:21,620 -- ERROR -- No hay conexion para ngnix
