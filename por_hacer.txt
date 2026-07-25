@@ -1,0 +1,5 @@
+1-Hacer el archivo docker.py para la creacion de los contenedores(simulacion de servidores) para la correcta implementacion 
+de ssh.py
+
+2- implementar las funciones de ssh.py  , si se le pasa 2 argumentos (serverops ssh web01) hara el invoke shell,
+pero si se le pasan 3 argumentos ejecutara un comando (serverops ssh web01 ls) 
