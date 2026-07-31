@@ -8,6 +8,11 @@ cloudfare:
   name: cloudfare
   port: 8080
   user: admin
+docssh:
+  ip: localhost
+  name: docssh
+  port: 2222
+  user: ciro
 httpd:
   ip: 10.123.123.1
   name: httpd
@@ -22,4 +27,4 @@ ubuntu:
   ip: 192.153.100.12
   name: ubuntu
   port: '8888'
-  user: administrator
+  user: ciro

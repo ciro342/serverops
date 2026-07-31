@@ -84,7 +84,7 @@ def update(name_serv:str,key:str,value:str):
             data[name_serv][key]=value
             with open("config/servers.yml","w") as file:
                 yaml.safe_dump(data,file)
-            console.print("[bold yellow]✓ update hecho correctamente porfavor asegurese en el archivo.[/bold yellow]")
+            console.print("[bold yellow]✓ update realizado correctamente porfavor asegurese en el archivo.[/bold yellow]")
             logging.info(f"Se ah modificado el servidor {name_serv}")
     except FileNotFoundError:
         print("No se ah encontrado el archivo de los servidores :v ")

@@ -74,3 +74,134 @@
 2026-07-24 18:53:48,396 -- INFO -- Si hay conexion con ping para : cloudfare
 2026-07-24 18:54:15,316 -- ERROR -- No hay conexion para ngnix
 2026-07-24 18:57:21,620 -- ERROR -- No hay conexion para ngnix
+2026-07-26 18:51:39,088 -- INFO -- Se han listado los servidores
+2026-07-26 18:54:58,993 -- INFO -- Se ah modificado el servidor ubuntu
+2026-07-26 20:18:31,614 -- INFO --  Se ha agregado docssh a el archivo de servudiores
+2026-07-27 21:25:47,870 -- INFO -- Se han listado los servidores
+2026-07-27 21:26:09,124 -- INFO -- Se han listado los servidores
+2026-07-28 22:02:44,866 -- INFO -- Se han listado los servidores
+2026-07-28 22:44:52,168 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-28 22:44:52,234 -- INFO -- Authentication (publickey) successful!
+2026-07-28 22:44:52,296 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-28 22:44:54,822 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-28 22:44:54,884 -- INFO -- Authentication (publickey) successful!
+2026-07-28 22:44:54,942 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-28 22:54:53,796 -- INFO -- Se han listado los servidores
+2026-07-29 11:29:15,777 -- INFO -- Se han listado los servidores
+2026-07-30 16:42:47,726 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 16:42:47,802 -- INFO -- Authentication (publickey) failed.
+2026-07-30 16:42:47,809 -- INFO -- Authentication (publickey) failed.
+2026-07-30 16:45:18,907 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 16:45:18,979 -- INFO -- Authentication (publickey) successful!
+2026-07-30 16:45:19,044 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 16:48:15,242 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 16:48:15,304 -- INFO -- Authentication (publickey) successful!
+2026-07-30 16:48:15,366 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 16:49:36,045 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 16:49:36,106 -- INFO -- Authentication (publickey) successful!
+2026-07-30 16:49:36,394 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 16:50:36,598 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 16:50:36,660 -- INFO -- Authentication (publickey) successful!
+2026-07-30 16:50:36,906 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 16:54:41,128 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 16:54:41,189 -- INFO -- Authentication (publickey) successful!
+2026-07-30 16:54:41,428 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 16:54:42,812 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 16:54:42,884 -- INFO -- Authentication (publickey) successful!
+2026-07-30 16:54:43,123 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 16:54:43,794 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 16:54:43,855 -- INFO -- Authentication (publickey) successful!
+2026-07-30 16:54:44,090 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 16:54:44,593 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 16:54:44,665 -- INFO -- Authentication (publickey) successful!
+2026-07-30 16:54:44,906 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 16:54:45,233 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 16:54:45,294 -- INFO -- Authentication (publickey) successful!
+2026-07-30 16:54:45,534 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 16:54:45,841 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 16:54:45,902 -- INFO -- Authentication (publickey) successful!
+2026-07-30 16:54:46,150 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 16:54:46,468 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 16:54:46,542 -- INFO -- Authentication (publickey) successful!
+2026-07-30 16:54:46,783 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 16:54:47,104 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 16:54:47,166 -- INFO -- Authentication (publickey) successful!
+2026-07-30 16:54:47,418 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 16:54:47,740 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 16:54:47,802 -- INFO -- Authentication (publickey) successful!
+2026-07-30 16:54:48,047 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 16:54:48,378 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 16:54:48,439 -- INFO -- Authentication (publickey) successful!
+2026-07-30 16:54:48,686 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 16:54:48,997 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 16:54:49,059 -- INFO -- Authentication (publickey) successful!
+2026-07-30 16:54:49,302 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 16:54:49,624 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 16:54:49,686 -- INFO -- Authentication (publickey) successful!
+2026-07-30 16:54:49,925 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 16:54:50,264 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 16:54:50,339 -- INFO -- Authentication (publickey) successful!
+2026-07-30 16:54:50,583 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 16:54:50,902 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 16:54:50,963 -- INFO -- Authentication (publickey) successful!
+2026-07-30 16:54:51,202 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 16:54:51,534 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 16:54:51,598 -- INFO -- Authentication (publickey) successful!
+2026-07-30 16:54:51,861 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 16:54:54,077 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 16:54:54,138 -- INFO -- Authentication (publickey) successful!
+2026-07-30 16:54:54,375 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 16:57:22,516 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 16:57:22,577 -- INFO -- Authentication (publickey) successful!
+2026-07-30 16:57:22,828 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 16:57:36,957 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 16:57:37,018 -- INFO -- Authentication (publickey) successful!
+2026-07-30 16:57:37,268 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 16:57:53,012 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 16:57:53,083 -- INFO -- Authentication (publickey) successful!
+2026-07-30 16:57:53,340 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 16:58:00,552 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 16:58:00,616 -- INFO -- Authentication (publickey) successful!
+2026-07-30 16:58:00,860 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 16:58:06,957 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 16:58:07,019 -- INFO -- Authentication (publickey) successful!
+2026-07-30 16:58:07,266 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 16:58:15,951 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 16:58:16,013 -- INFO -- Authentication (publickey) successful!
+2026-07-30 16:58:16,253 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 16:58:20,668 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 16:58:20,729 -- INFO -- Authentication (publickey) successful!
+2026-07-30 16:58:20,984 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 16:58:25,479 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 16:58:25,551 -- INFO -- Authentication (publickey) successful!
+2026-07-30 16:58:25,792 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 16:58:29,853 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 16:58:29,927 -- INFO -- Authentication (publickey) successful!
+2026-07-30 16:58:30,180 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 16:59:52,110 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 16:59:52,171 -- INFO -- Authentication (publickey) successful!
+2026-07-30 17:04:22,449 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 17:04:22,510 -- INFO -- Authentication (publickey) successful!
+2026-07-30 17:04:22,758 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 17:04:40,594 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 17:04:40,655 -- INFO -- Authentication (publickey) successful!
+2026-07-30 17:04:40,903 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 17:04:47,349 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 17:04:47,411 -- INFO -- Authentication (publickey) successful!
+2026-07-30 17:04:47,667 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 17:08:22,460 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 17:08:22,533 -- INFO -- Authentication (publickey) successful!
+2026-07-30 17:08:22,789 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 20:37:23,042 -- INFO -- Se han listado los servidores
+2026-07-30 22:55:40,604 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 22:55:40,680 -- INFO -- Authentication (publickey) failed.
+2026-07-30 22:55:40,687 -- INFO -- Authentication (publickey) failed.
+2026-07-30 22:57:59,763 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 22:57:59,824 -- INFO -- Authentication (publickey) successful!
+2026-07-30 22:57:59,881 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 23:02:11,162 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 23:02:11,223 -- INFO -- Authentication (publickey) successful!
+2026-07-30 23:02:11,445 -- INFO -- Se ah ejecutado un comando en el servidor docssh
+2026-07-30 23:04:11,991 -- INFO -- Connected (version 2.0, client OpenSSH_8.9p1)
+2026-07-30 23:04:12,097 -- INFO -- Authentication (publickey) successful!
+2026-07-30 23:04:12,331 -- INFO -- Se ah ejecutado un comando en el servidor docssh
