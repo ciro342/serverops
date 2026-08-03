@@ -48,14 +48,7 @@ serverops/
 - [ ] **Fase 5 — Monitoreo**: CPU, RAM, disco, load average
 - [ ] **Fase 6 — Docker**: control de contenedores remotos
 
-## Comandos (por ahora)
 
-```bash
-python3 cli.py inventory add <nombre> <ip> <usuario> <puerto>
-python3 cli.py inventory listall
-python3 cli.py inventory remove <nombre>
-python3 cli.py inventory update <nombre> <campo> <valor>
-```
 
 ## Instalación
 
