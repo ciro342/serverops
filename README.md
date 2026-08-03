@@ -42,9 +42,9 @@ serverops/
 ## Fases
 
 - [x] **Fase 1 — Inventario**: agregar, listar, editar y eliminar servidores (YAML)
-- [ ] **Fase 2 — SSH**: conexión remota vía Paramiko *(en progreso)*
-- [ ] **Fase 3 — Servicios**: status/restart de servicios remotos
-- [ ] **Fase 4 — Logs**: ver logs de servicios remotos
+- [X] **Fase 2 — SSH**: conexión remota vía Paramiko *(en progreso)*
+- [X] **Fase 3 — Servicios**: status/restart de servicios remotos
+- [X] **Fase 4 — Logs**: ver logs de servicios remotos
 - [ ] **Fase 5 — Monitoreo**: CPU, RAM, disco, load average
 - [ ] **Fase 6 — Docker**: control de contenedores remotos
 
